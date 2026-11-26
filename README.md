@@ -23,6 +23,5 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 
 <p align="left">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=Zinedineee&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
   <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zinedineee&layout=compact&theme=github_dark&hide_border=true" />
 </p>
