@@ -23,10 +23,6 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 
 <p align="center">
-  <img height="570" src="https://github-readme-stats.vercel.app/api?username=Zinedineee&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Zinedineee&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zinedineee&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Zinedineee&theme=github-dark-blue&hide_border=true" />
 </p>
